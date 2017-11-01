@@ -1,8 +1,8 @@
 ---
-title: "36-350 HW10 Test"
+title: "36-350 HW10 Saving to Git Test"
 author: "Chenxi Wang"
 date: "November 1, 2017"
 output: html_document
 ---
 
-Test on Git.
+First Time try out Git.
